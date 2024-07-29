@@ -1,7 +1,7 @@
 # 👋🏾 Hello!
-i do code and ui/ux design for fun
-i like Rust, x86-64 Assembly and learning german
-[subscribe my mastodon!!!](https://fosstodon.org/@downgrade)
+- i do code and ui/ux design for fun
+- i like Rust, x86-64 Assembly and learning german
+- [subscribe my mastodon!!!](https://fosstodon.org/@downgrade)
 
 ## Languages and Tools:
 ![Rust](https://img.shields.io/badge/-Rust-0A0A0A?style=flat&logo=rust&logoColor=white)
