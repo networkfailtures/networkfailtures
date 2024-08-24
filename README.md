@@ -1,7 +1,7 @@
 # 👋🏾 Hello!
 - i do code and ui/ux design for fun
 - i like Rust, x86-64 Assembly and learning german
-- [subscribe my mastodon](https://fosstodon.org/@downgrade)
+- [subscribe my mastodon](https://fosstodon.org/@quf)
 
 - You can contact me [here](https://quf.sculk.io/)
 
