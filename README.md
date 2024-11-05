@@ -3,7 +3,7 @@
 - i like Rust, x86-64 Assembly and learning german
 - [subscribe my mastodon](https://fosstodon.org/@quf)
 
-- You can contact me [here](https://quf.sculk.io/)
+- You can contact me [here](https://quf.lol/)
 
 ## Languages and Tools:
 ![Rust](https://img.shields.io/badge/-Rust-0A0A0A?style=flat&logo=rust&logoColor=white)
