@@ -1,4 +1,5 @@
 quf.lol
+- - -
 ![Rust](https://img.shields.io/badge/-Rust-0A0A0A?style=flat&logo=rust&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-0A0A0A?style=flat&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-0A0A0A?style=flat&logo=adobe-illustrator&logoColor=orange)
